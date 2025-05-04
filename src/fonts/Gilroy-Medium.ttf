@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Matt's Portfolio - Software Engineer" />
+  <meta name="theme-color" content="#000000" />
+  <link rel="icon" type="image/svg+xml" href="/assets/Robo-CFOMHOfT.png" sizes="128x128" /> 
+  <title>Matt's Portfolio</title>
+  <script type="module" crossorigin src="/assets/index-aUdFFTLB.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/vendor-DzhIbF5s.js">
+  <link rel="modulepreload" crossorigin href="/assets/animations-xibHvm8h.js">
+  <link rel="stylesheet" crossorigin href="/assets/index-BdyQQjle.css">
+</head>
+
+<body>
+  <!-- Google Tag Manager noscript removed - now loaded dynamically -->
+  <div id="root"></div>
+</body>
+
+</html>
