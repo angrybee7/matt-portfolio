@@ -12907,6 +12907,26 @@ const __vite__mapDeps = (
                 featured: !0,
               },
               {
+                title: "Minerva wallet",
+                description: "Joined and contributed to wallet development.",
+                image:
+                  "https://i.postimg.cc/9XKC69ZJ/wallet.png",
+                link: "https://minerva.digital/",
+                category: "mobile",
+                tags: ["Javascript", "Flutter", "Bootstrap", "Google Analytics", "SEO", "Nginx", "Ethereum"],
+                featured: !0,
+              },
+              {
+                title: "Goalpost",
+                description: "Led the development process of a poker platform & fixed issues in the codebase.",
+                image:
+                  "https://i.postimg.cc/853gV8Jj/pocker.jpg",
+                link: "https://goalpost.gg/",
+                category: "blockchain",
+                tags: ["Typescript", "React", "Socket.io", "Node", "Web3", "Solana"],
+                featured: !0,
+              },
+              {
                 title: "BMI-Calculator",
                 description: "A web application to calculate BMI. It uses the BMI formula to calculate the BMI.",
                 image:
@@ -12926,6 +12946,16 @@ const __vite__mapDeps = (
                 github: "https://github.com/mattdev071/saas-ai-landing-starter",
                 category: "web",
                 tags: ["Next.js", "React", "TypeScript", "TailwindCSS", "react-just-parallax", "vercel"],
+                featured: !0,
+              },
+              {
+                title: "Vacasa",
+                description: "Created a user-friendly platform for searching vacations.",
+                image:
+                  "https://i.postimg.cc/zXTvp76n/vacation.png",
+                link: "https://www.vacasa.com/",
+                category: "web",
+                tags: ["Python", "React", "HTML5", "Django", "Sass"],
                 featured: !0,
               },
               {
