@@ -13259,7 +13259,7 @@ const __vite__mapDeps = (
                               }),
                               e.jsx("p", {
                                 className: "text-gray-600",
-                                children: "Falmouth, ME, United States",
+                                children: "207 N Gilbert Rd, Gilbert, AZ 85234, United States",
                               }),
                             ],
                           }),
@@ -14250,7 +14250,7 @@ const __vite__mapDeps = (
                 className: "text-gray-500 text-sm mb-4 md:mb-0",
                 children: [
                   e.jsxs("p", {
-                    children: ["© ", r, " Matthew Allen. All rights reserved."],
+                    children: ["© ", r, " mattdev071. All rights reserved."],
                   }),
                   e.jsx("div", {
                     className: "mt-2 text-xs",
