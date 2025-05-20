@@ -14250,7 +14250,7 @@ const __vite__mapDeps = (
                 className: "text-gray-500 text-sm mb-4 md:mb-0",
                 children: [
                   e.jsxs("p", {
-                    children: ["© ", r, " mattdev071. All rights reserved."],
+                    children: ["© ", r, " mattdev. All rights reserved."],
                   }),
                   e.jsx("div", {
                     className: "mt-2 text-xs",
